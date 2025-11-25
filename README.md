@@ -7,7 +7,8 @@ A beautiful React Native mobile application that provides users with daily motiv
 ![License](https://img.shields.io/badge/License-0BSD-green)
 
 ## 📸 Screenshots
-![Project Screenshot]image1.jpg
+![Logo](image1.jpg)
+
 
 
 ### Home Screen
