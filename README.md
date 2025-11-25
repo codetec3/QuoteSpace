@@ -7,6 +7,8 @@ A beautiful React Native mobile application that provides users with daily motiv
 ![License](https://img.shields.io/badge/License-0BSD-green)
 
 ## 📸 Screenshots
+image1.png
+
 
 ### Home Screen
 The home screen features a stunning gradient background (purple to pink) with a beautifully designed quote card displaying:
@@ -166,6 +168,7 @@ The app uses the following environment variable:
 - `EXPO_PUBLIC_API_NINJAS_KEY` - Your API Ninjas API key (optional)
 
 ## 🎯 Features Breakdown
+image2.jpg
 
 ### ✅ Implemented Features
 
