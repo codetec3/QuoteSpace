@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 e5fcd608798eb14d3d9100fc92e99197474b8240 gokul-163 <gokul.d.iot.2022@snsce.ac.in> 1763998874 +0530	commit (initial): Created a new Expo app
+e5fcd608798eb14d3d9100fc92e99197474b8240 f1845db68066dfa6dff5a81b165928b2645d36c3 gokul-163 <gokul.d.iot.2022@snsce.ac.in> 1764049901 +0530	commit: first
+f1845db68066dfa6dff5a81b165928b2645d36c3 0000000000000000000000000000000000000000 gokul-163 <gokul.d.iot.2022@snsce.ac.in> 1764050512 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 f1845db68066dfa6dff5a81b165928b2645d36c3 gokul-163 <gokul.d.iot.2022@snsce.ac.in> 1764050512 +0530	Branch: renamed refs/heads/master to refs/heads/main
+f1845db68066dfa6dff5a81b165928b2645d36c3 c11093785ef6dcb18e1a42a01ac4a3eddee42865 gokul-163 <gokul.d.iot.2022@snsce.ac.in> 1764050648 +0530	pull --rebase origin main (start): checkout c11093785ef6dcb18e1a42a01ac4a3eddee42865
+c11093785ef6dcb18e1a42a01ac4a3eddee42865 3f6b17f7beee62f87f31af723bc60e14e716cfe1 gokul-163 <gokul.d.iot.2022@snsce.ac.in> 1764050648 +0530	pull --rebase origin main (pick): Created a new Expo app
+3f6b17f7beee62f87f31af723bc60e14e716cfe1 fa9324eb696601581c9282ff78d990a8c6d3ea28 gokul-163 <gokul.d.iot.2022@snsce.ac.in> 1764050648 +0530	pull --rebase origin main (pick): first
+fa9324eb696601581c9282ff78d990a8c6d3ea28 fa9324eb696601581c9282ff78d990a8c6d3ea28 gokul-163 <gokul.d.iot.2022@snsce.ac.in> 1764050648 +0530	pull --rebase origin main (finish): returning to refs/heads/main
